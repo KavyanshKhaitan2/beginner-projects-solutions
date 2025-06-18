@@ -8,7 +8,7 @@ Solutions for problems over at https://github.com/jorgegonzalez/beginner-project
  - [x] Rock Paper Scissors Game
  - [x] Coin Estimator By Weight
  - [ ] Mad Libs Story Maker
- - [ ] Change Calculator
+ - [x] Change Calculator
  - [ ] Mean, Median, and Mode
  - [ ] Higher Lower Guessing Game
  - [ ] Multiplication Table
