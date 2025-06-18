@@ -9,7 +9,7 @@ Solutions for problems over at https://github.com/jorgegonzalez/beginner-project
  - [x] Coin Estimator By Weight
  - [ ] Mad Libs Story Maker
  - [x] Change Calculator
- - [ ] Mean, Median, and Mode
+ - [x] Mean, Median, and Mode
  - [ ] Higher Lower Guessing Game
  - [ ] Multiplication Table
  - [ ] Fibonacci Sequence
