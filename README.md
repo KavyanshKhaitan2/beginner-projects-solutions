@@ -7,7 +7,7 @@ Solutions for problems over at https://github.com/jorgegonzalez/beginner-project
  - [x] Pythagorean Triples Checker
  - [x] Rock Paper Scissors Game
  - [x] Coin Estimator By Weight
- - [ ] Mad Libs Story Maker
+ - [x] Mad Libs Story Maker
  - [x] Change Calculator
  - [x] Mean, Median, and Mode
  - [ ] Higher Lower Guessing Game
